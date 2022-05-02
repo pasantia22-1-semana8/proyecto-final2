@@ -63,7 +63,7 @@ La información de cada una de las estancias de los vehículos será almacenada 
     * Código de las clases que permitan gestionar los vehículos con sus datos asociados (estancias, tiempo, etc.), las listas de vehículos registrados como oficiales y residentes, etc.
     * Mapeo de las clases para poder almacenar la información en la base de datos.
     * Clases para gestionar la persistencia de datos, incluida la configuración de conexión a la base de datos.
-
+* Modulo de usuarios, autenticacion y autorizacion.
 * Frontend: spa  de la aplicacion en reactjs
 * Backend: Api rest de la aplicacion en django rest Framework.
 
