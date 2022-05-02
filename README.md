@@ -1,8 +1,6 @@
 # Pasantia 22.1 | proyecto final (propuesta 2)
 
-## EJERCICIOS
-
-### Ejercicio #
+## Sistema de administracion de estacionamiento vehicular.
 Se desea administrar el acceso de vehículos a un estacionamiento de pago. El estacionamiento no se encuentra automatizado, por lo que existe un empleado encargado de registrar las entradas y salidas de vehículos.
 
 Los vehículos se identifican por su número de placa. Cuando un vehículo entra en el estacionamiento el empleado registra su entrada y al salir registra su salida y, en algunos casos, cobra el importe correspondiente por el tiempo de estacionamiento.
